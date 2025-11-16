@@ -9,8 +9,8 @@
   align-items: center;
   background-color: #000000;
   z-index: 9999;
-  animation: fadeOut 0.5s 10s ease forwards;
-  -webkit-animation: fadeOut 0.5s 10s ease forwards;
+  animation: fadeOut 0.5s 12s ease forwards;
+  -webkit-animation: fadeOut 0.5s 12s ease forwards;
 }
 
 #loader {
